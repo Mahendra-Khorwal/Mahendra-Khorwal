@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,MONGODB,EXPRESS.JS,REACT.JS,NODE.JS**
 
-- 👨‍💻 All of my projects are available at [https://chipper-chebakia-788aed.netlify.app/](https://chipper-chebakia-788aed.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://chipper-chebakia-788aed.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **khorwal151@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1dzExmb734OR628IrOdBwEAW8WRiyXDD8/view?usp=sharing))
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1dzExmb734OR628IrOdBwEAW8WRiyXDD8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
