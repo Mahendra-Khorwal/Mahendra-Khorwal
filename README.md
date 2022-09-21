@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahendra Khorwal</h1>
-<h3 align="center">A passionate frontend developer from India.👉 My name is Mahendra Khorwal. I am a Aspiring Full Stack Web Developer. I can make supersonic websites, landing pages, and web apps to fulfill your needs. 👉 I first felt a strong desire to learn about the fascinating world of web development and coding when I started observing this rapidly growing and interactive phase in technology. 👉 Personally, I'm an enthusiastic person with a curious mind and an interest in coding 👨‍🏫 👉 I believe in constant learning and acquiring knowledge 📚.</h3>
+<h3 align="center">  👉A passionate frontend developer and Aspiring Full Stack Web Developer. I can make supersonic websites, landing pages, and web apps to fulfill your needs. 
+  👉 I first felt a strong desire to learn about the fascinating world of web development and coding when I started observing this rapidly growing and interactive phase in technology. 
+  👉 Personally, I'm an enthusiastic person with a curious mind and an interest in coding 👨‍🏫 
+  👉 I believe in constant learning and acquiring knowledge 📚.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra-khorwal&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra-khorwal" /> </p>
 
