@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mahendra Khorwal</h1>
-<h3 align="center">  👉A passionate frontend developer and Aspiring Full Stack Web Developer. I can make supersonic websites, landing pages, and web apps to fulfill your needs. 
-  👉 I first felt a strong desire to learn about the fascinating world of web development and coding when I started observing this rapidly growing and interactive phase in technology. 
-  👉 Personally, I'm an enthusiastic person with a curious mind and an interest in coding 👨‍🏫 
+<h3 align="center">  👉A passionate frontend developer and Aspiring Full Stack Web Developer. I can make supersonic websites, landing pages, and web apps to fulfill your needs. </br>
+  👉 I first felt a strong desire to learn about the fascinating world of web development and coding when I started observing this rapidly growing and interactive phase in technology.  </br>
+  👉 Personally, I'm an enthusiastic person with a curious mind and an interest in coding 👨‍🏫  </br>
   👉 I believe in constant learning and acquiring knowledge 📚.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra-khorwal&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra-khorwal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khorwalking" target="blank"><img src="https://img.shields.io/twitter/follow/khorwalking?logo=twitter&style=for-the-badge" alt="khorwalking" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,MONGODB,EXPRESS.JS,REACT.JS,NODE.JS**
+- 🌱 I’m currently learning **M.E.R.N Stack Technology**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://chipper-chebakia-788aed.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **khorwal151@gmail.com**
 
