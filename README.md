@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N Stack Technology**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://chipper-chebakia-788aed.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://mahendrakhorwal-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
